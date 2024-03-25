@@ -117,7 +117,7 @@ namespace HarryConsoleApp
             //{
             //    Console.WriteLine(i+1);
             //}
-            Console.ReadLine();
+            //Console.ReadLine();
 
          
         }
